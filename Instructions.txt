@@ -1,0 +1,5 @@
+Name: Dhiraj Vasant Borade
+UFID: 4595-8142
+
+1. main.c file has the main() function aswell as the test cases and the systems call implementations
+2. The system call implementation are defined in prototypes.h
